@@ -1,0 +1,8 @@
+{
+  "adapter": "npm",
+  "packages": [
+  	"client",
+  	"server",
+  	"server/themes/node-modules/*"
+  ]
+}

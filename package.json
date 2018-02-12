@@ -1,0 +1,15 @@
+{
+  "name": "livelist",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "install": "monorepo install",
+    "publish": "monorepo publish --access public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "monorepo": "^1.2.0"
+  }
+}

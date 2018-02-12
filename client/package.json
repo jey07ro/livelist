@@ -1,0 +1,16 @@
+{
+  "name": "livelist-client",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^2.7.1",
+    "webpack": "^3.11.0"
+  }
+}
